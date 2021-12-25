@@ -1,3 +1,3 @@
-##Welcome to our Blog!
+Welcome to our Blog!
 
-####Now it's only a test.
+Now it's only a test.
