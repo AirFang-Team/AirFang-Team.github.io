@@ -5,7 +5,6 @@ subtitle: 'Betterer先行版'
 date: 2022-01-01
 tags: Betterer Beta-Version
 ---
-# Betterer Beta V0.1
 
 **Betterer V0.1Beta**版本正式发行。
 
