@@ -1,5 +1,3 @@
-# Betterer Beta V0.1
-
 ---
 layout: post
 title: 'Betterer-V0.1Beta'
@@ -8,6 +6,7 @@ date: 2022-01-01
 categories: 技术
 tags: Betterer Beta-Version
 ---
+# Betterer Beta V0.1
 
 **Betterer V0.1Beta**版本正式发行。
 
