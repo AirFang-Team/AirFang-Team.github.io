@@ -3,7 +3,6 @@ layout: post
 title: 'Betterer-V0.1Beta'
 subtitle: 'Betterer先行版'
 date: 2022-01-01
-categories: 技术
 tags: Betterer Beta-Version
 ---
 # Betterer Beta V0.1
