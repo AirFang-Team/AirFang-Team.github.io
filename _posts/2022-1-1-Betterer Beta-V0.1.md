@@ -7,7 +7,7 @@ cover: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAd8AAACKCAYAAADrNECoAAAABG
 tags: Betterer Beta-Version
 ---
 
-**Betterer V0.1Beta**版本正式发行。
+**Betterer V0.1Beta**版本正式发行。 
 
 感谢tangninghaha,RatingStars,panyunfeng123的支持。（于Github上）
 
