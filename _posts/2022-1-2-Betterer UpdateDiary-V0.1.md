@@ -2,7 +2,7 @@
 
 layout: post
 title: 'Betterer更新日志'
-subtitle: 'Betterer更新日志'
+subtitle: '目前进度V0.1'
 date: 2022-01-02
 
 tags: Betterer 更新日志
