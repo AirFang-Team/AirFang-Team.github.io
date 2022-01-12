@@ -34,9 +34,7 @@ tangninghaha
 
 
 
-RatingStar
-
-s
+RatingStars
 
 panyunfeng123，
 
